@@ -31,7 +31,8 @@ const nextConfig = {
                 'ko-fi.com',
                 'e.hiphotos.baidu.com',
                 'fuss10.elemecdn.com',
-                'file.notion.so'
+                'file.notion.so',
+                'img.notionusercontent.com'
         ],
         remotePatterns: [
             {
